@@ -8,7 +8,7 @@ This code was used with the RADIATE dataset available here: https://www.kaggle.c
 To run the code use the following command :
 
   ```
- python3 train.py --epochs 100 --batch-size 2
+ python3 train.py --epochs 100 --batch-size 2 --TRAIN_PATH "Data_Folder"
   
    ```
 
